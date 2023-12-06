@@ -33,6 +33,7 @@ header{
   height: 380px;
   width: 332px;
   background-color: #F6F6F6; 
+  border:0.5px #DBE1E3 solid;
 }
 
 .boxLogoCesul{
